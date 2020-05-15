@@ -49,7 +49,7 @@ The same cannot be said for the lower-volume products, however. The demand is so
 
 ## Demand Heatmap
 
-<img src='images/image_4.png'>
+<img src='images/image_5.png'>
 
 We are able to see a lot of varying activity for this particular product, with a peak happening most years around summertime.
 
