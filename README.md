@@ -63,7 +63,7 @@ No pattern for bottom products.
 
 In the end, I settled on an ARIMA model. The RMSE for the top 10 products was 22.250. As part of future work, I plan to train the model on all 30,490 products.
 
-For more, in-depth information about the model, check out this [Jupyter Notebook.](Modeling.ipynb)
+For more, in-depth information about the model, check out this [Notebook.](Modeling.ipynb)
 
 
 # For more info,
